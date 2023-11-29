@@ -2,4 +2,4 @@
 for x in range (97,123):
     if (x == 101) or (x == 113):
         continue
-    print(chr(i).format(),end="")
+    print(chr(x).format(),end="")

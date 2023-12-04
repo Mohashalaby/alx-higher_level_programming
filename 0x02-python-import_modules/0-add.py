@@ -4,6 +4,8 @@ def add (a , b):
     b = 2
     return a + b
     print("{} + {} = {} ".formmat(a, b, return)
-            from add_0.py import add(a , b)
+            import add_0
+            form add_0 import add 
+            add(1,2)
 
 

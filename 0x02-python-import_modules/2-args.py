@@ -1,5 +1,4 @@
-f __name__ == "__main__":
-"""Print the number of and list of arguments."""
+f __name__ == "__main__":.
 import sys
 
 count = len(sys.argv) - 1

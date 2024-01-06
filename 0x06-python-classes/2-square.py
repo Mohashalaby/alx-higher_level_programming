@@ -1,4 +1,4 @@
-#!/bin/user/python3
+#!/usr/bin/python3
 """ initializing class ."""
 class square:
     """ initializing new object"""

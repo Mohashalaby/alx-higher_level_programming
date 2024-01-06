@@ -1,4 +1,4 @@
-#!/bin/usr/python3
+#!/usr/bin/python3
 """ defining anew object . """
 class square:
     """ usung an object from class . """

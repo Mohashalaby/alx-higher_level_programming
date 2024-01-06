@@ -1,4 +1,4 @@
-#!/bin/usr/pyrhin3
+#!/usr/bin/pyrhin3
 class square:
     """ defining a class """
 

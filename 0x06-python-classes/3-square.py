@@ -1,4 +1,4 @@
-#!/bin/usr/python3
+#!/usr/bin/python3
 """defining a class . """
 class square:
     def __init__(self, size = 0):

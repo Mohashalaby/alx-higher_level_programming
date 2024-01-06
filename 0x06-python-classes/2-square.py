@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """ initializing class ."""
-class square:
+class Square:
     """ initializing new object"""
     def __init__(self, size = 0):
         """ consrructor 
